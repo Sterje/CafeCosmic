@@ -61,20 +61,21 @@
 
 .menu {
     min-width: 250px;
-    margin-top: 30px;
+
     text-align: left;
     line-height: 1.5;
-    color:antiquewhite;
+    color: black;
     width: 40vw;
+    height: fit-content;
     padding: 10px;
     /* position: relative; */
-    border: 1px solid turquoise;
-    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid black;
+    background: rgb(136, 250, 87, 0.8);
+
     border-radius: 20px;
     border: 1px solid rgba(255, 255, 255, 0.18);
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    font-family: "oxanium";
 
 }
 
